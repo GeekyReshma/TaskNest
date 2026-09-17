@@ -210,7 +210,7 @@ npm run dev
 
 ### Live URLs
 
-Frontend live URL: task-nest-ecru.vercel.app  
+Frontend live URL: _task-nest-ecru.vercel.app_  
 Backend live URL: _[ADD AFTER DEPLOYMENT]_
 
 ## Part 2 — Product Understanding
